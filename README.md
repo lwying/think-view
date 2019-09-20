@@ -13,7 +13,7 @@ composer require topthink/think-view
 
 本扩展不能单独使用，依赖ThinkPHP6.0+
 
-首先配置config目录下的template.php配置文件，然后可以按照下面的用法使用。
+首先配置config目录下的view.php配置文件，然后可以按照下面的用法使用。
 
 ~~~php
 
